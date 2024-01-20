@@ -1,6 +1,6 @@
 {
     "Name": "Ninjas",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "TwoOrMoreInMainboard",
