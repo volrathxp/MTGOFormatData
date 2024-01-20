@@ -1,0 +1,10 @@
+{
+    "Name": "Food Chain",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Food Chain"]
+        }
+    ]
+}

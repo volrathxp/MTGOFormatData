@@ -1,0 +1,23 @@
+{
+    "Name": "Cradle Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gaea's Cradle"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Fiend Artisan"]
+        },       
+         {
+            "Type": "InMainboard",
+            "Cards": ["Allosaurus Shepherd"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Endurance", "Noble Hierarch"]
+        }
+        
+    ]
+}	

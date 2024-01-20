@@ -1,0 +1,26 @@
+{
+    "Name": "The EPIC Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Beseech the Mirror","Tendrils of Agony"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Mox Opal"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Lion's Eye Diamond"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Galvanic Relay", "Burning Wish", "Rite of Flame"]
+          },
+          {
+            "Type": "DoesNotContain",
+            "Cards": ["Urza's Saga"]
+          }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "RUG Delver",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Questing Druid","Murktide Regent"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Daze"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Orcish Bowmasters"]
+        }             
+        
+    ]
+}
+
+

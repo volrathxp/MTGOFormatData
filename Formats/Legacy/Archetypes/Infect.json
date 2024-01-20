@@ -1,0 +1,14 @@
+{
+    "Name": "Infect",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Invigorate"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Glistener Elf"]
+        }
+    ]
+}

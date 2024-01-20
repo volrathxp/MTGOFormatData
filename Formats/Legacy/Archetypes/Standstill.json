@@ -1,0 +1,10 @@
+{
+    "Name": "Standstill",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Standstill"]
+        }
+    ]
+}

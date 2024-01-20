@@ -1,0 +1,18 @@
+{
+    "Name": "Stryfo Pile",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dack Fayden"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Orcish Bowmasters"]
+        }
+    ]
+}

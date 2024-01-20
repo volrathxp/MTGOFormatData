@@ -1,0 +1,14 @@
+{
+    "Name": "RUG Cascade",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Shardless Agent","Crashing Footfalls","Violent Outburst"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Omniscience"]
+        }
+    ]
+}

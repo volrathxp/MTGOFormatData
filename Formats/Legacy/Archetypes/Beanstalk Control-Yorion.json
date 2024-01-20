@@ -1,0 +1,14 @@
+{
+    "Name": "Beanstalk Control (Yorion)",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        }
+    ]
+}

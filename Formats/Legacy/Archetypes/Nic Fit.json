@@ -1,0 +1,18 @@
+{
+    "Name": "Nic Fit",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Veteran Explorer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]  
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]  
+        }
+    ]
+}

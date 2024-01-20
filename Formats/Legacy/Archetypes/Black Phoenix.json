@@ -1,0 +1,23 @@
+{
+    "Name": "Black Phoenix",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Arclight Phoenix"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Buried Alive"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Muktride Regent"]
+        },        
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
+        }
+
+    ]
+}

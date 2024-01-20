@@ -1,0 +1,23 @@
+{
+    "Name": "Humans",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Coppercoat Vanguard", "Brutal Cathar", "Jirina, Dauntless General", "General Kudro of Drannith", "Champion of the Parish"]
+        },  
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Thalia's Lieutenant", "Thalia, Guardian of Thraben"]
+        },         
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cavern of Souls"]
+        },        
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Seasoned Dungeoneer"]
+        }   
+
+    ]
+}

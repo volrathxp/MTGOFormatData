@@ -1,0 +1,46 @@
+{
+    "Name": "Bant Control (Non-Yorion)",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Teferi, Time Raveler"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tundra"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tropical Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Forth Eorlingas!"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leyline Binding"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        }    
+    ]
+}

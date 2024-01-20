@@ -1,0 +1,38 @@
+{
+    "Name": "BUG Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Leovold, Emissary of Trest","Drown in the Loch","Assassin's Trophy"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tropical Island"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Underground Sea"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        }    
+    ]
+}

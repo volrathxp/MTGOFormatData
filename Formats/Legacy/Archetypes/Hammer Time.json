@@ -1,0 +1,22 @@
+{
+    "Name": "Hammer Time",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Colossus Hammer"]
+        },
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Esper Sentinel","Puresteel Paladin"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sigarda's Aid"]
+        },
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Inkmoth Nexus", "Urza's Saga"]
+        }        
+    ]
+}

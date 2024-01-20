@@ -1,0 +1,10 @@
+{
+    "Name": "Creative Technique",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Creative Technique"]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Name": "Maverick",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Orcish Bowmasters"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Swords to Plowshares"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Exploration"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Karn, the Great Creator"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Life from the Loam"]
+        }
+    ]
+}

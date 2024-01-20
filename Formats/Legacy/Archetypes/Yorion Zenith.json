@@ -1,0 +1,35 @@
+{
+    "Name": "Yorion Zenith",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Delighted Halfling", "Omnath, Locus of Creation", "Leovold, Emissary of Trest"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Heritage Druid"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Veteran Explorer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        }
+
+    ]
+}

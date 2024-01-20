@@ -1,0 +1,10 @@
+{
+    "Name": "Paradoxical Outcome",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Paradoxical Outcome"]
+        }
+    ]
+}

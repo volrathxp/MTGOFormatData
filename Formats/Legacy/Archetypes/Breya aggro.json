@@ -1,0 +1,14 @@
+{
+    "Name": "Breya aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Breya's Apprentice"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        }
+    ]
+}

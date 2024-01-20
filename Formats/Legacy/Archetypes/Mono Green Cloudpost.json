@@ -1,0 +1,45 @@
+{
+    "Name": "Mono Green Cloudpost",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cloudpost"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Elvish Reclaimer"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Green Sun's Zenith","Once Upon a Time", "Primeval Titan"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Lotus Petal"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Mox Diamond"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Not of This World"]
+        },{
+            "Type": "DoesNotContain",
+            "Cards": ["Thoughtseize"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sylvan Safekeeper"]
+        }
+    ]
+}

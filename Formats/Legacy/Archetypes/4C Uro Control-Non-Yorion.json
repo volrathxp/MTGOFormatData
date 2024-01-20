@@ -1,0 +1,33 @@
+{
+    "Name": "4C Uro Control (Non-Yorion)",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Teferi, Time Raveler"]
+        },
+        {   "Type" : "TwoOrMoreInMainboard",
+            "Cards" : ["Narset, Parter of Veils","Leyline Binding","Forth Eorlingas!","Leovold, Emissary of Trest","Snapcaster Mage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        }    
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Riddlesmith Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Riddlesmith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Echo of Eons"]
+         }
+    ]
+}

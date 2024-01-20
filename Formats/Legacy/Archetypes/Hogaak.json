@@ -1,0 +1,19 @@
+{
+    "Name": "Hogaak",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Hogaak, Arisen Necropolis"]
+        },   
+  	    {
+            "Type": "twoormoreInMainboard",
+            "Cards": ["Grief", "Troll of Khazad-dum","Stitcher's Supplier"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Golgari Grave-Troll"]
+        }
+        
+    ]
+}

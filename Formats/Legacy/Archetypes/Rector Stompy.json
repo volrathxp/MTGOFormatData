@@ -1,0 +1,18 @@
+{
+    "Name": "Rector Stompy",
+    "IncludeColorInName": false,
+    "Conditions": [
+         {
+            "Type": "InMainboard",
+            "Cards": ["Arena Rector"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ancient Tomb"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        }
+    ]
+}

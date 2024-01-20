@@ -1,0 +1,22 @@
+{
+    "Name": "Goblins (Vial)",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Goblin Lackey","Muxus, Goblin Grandee"]
+         },
+         {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
+         },
+         {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "goblin rabblemaster"]
+         },        
+         {
+            "Type": "DoesNotContain",
+            "Cards": ["Name Sticker Goblin"]
+        }
+    ]
+}

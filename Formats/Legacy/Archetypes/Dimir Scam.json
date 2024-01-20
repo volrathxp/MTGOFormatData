@@ -1,0 +1,41 @@
+{
+    "Name": "Dimir Scam",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Grief", "Murktide Regent","Orcish Bowmasters","Troll of Khazad-dum"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Daze"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Delver of Secrets"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Volcanic Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Hogaak, Arisen Necropolis"]
+        }             
+        
+    ]
+}
+
+

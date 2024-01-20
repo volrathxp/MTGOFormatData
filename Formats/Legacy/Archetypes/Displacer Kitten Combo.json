@@ -1,0 +1,10 @@
+{
+    "Name": "Displacer Kitten Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Displacer Kitten"]
+        }
+    ]
+}

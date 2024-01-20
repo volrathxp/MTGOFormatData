@@ -1,0 +1,22 @@
+{
+    "Name": "Beseech Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Beseech the Mirror","Tendrils of Agony"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Mox Opal"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Lion's Eye Diamond"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+          }
+    ]
+}

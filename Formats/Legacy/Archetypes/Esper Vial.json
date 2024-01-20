@@ -1,0 +1,34 @@
+{
+    "Name": "Esper Vial",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Soulherder", "Samwise the Stouthearted","Recruiter of the Guard"]
+        },
+        {
+            "Type": "InMainBoard",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
+        },
+        {
+            "type": "DoesNotContainMainboard",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Seasoned Dungeoneer"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Narset, Parter of Veils"]
+        }
+    ]
+}
