@@ -1,0 +1,10 @@
+{
+    "Name": "4C Bloodbraid Cascade",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Bloodbraid Marauder"]
+        }
+    ]
+}
