@@ -1,0 +1,34 @@
+{
+    "Name": "Lands",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Dark Depths", "Field of the Dead", "Thespian's Stage", "Valakut, the Molten Pinnacle"]
+        },   
+  	    {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Exploration","Elvish Reclaimer"]
+        },
+     	{
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Life from the Loam", "Dryad of the Ilysian Grove"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        }
+    ]
+}

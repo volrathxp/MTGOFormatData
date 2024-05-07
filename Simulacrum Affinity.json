@@ -1,0 +1,34 @@
+{
+    "Name": "Simulacrum Affinity",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Simulacrum Synthesizer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sicarian Infiltrator"]
+        },        
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Grindstone"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Auriok Salvagers"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Riddlesmith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        }
+    ]
+}
