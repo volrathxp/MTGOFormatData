@@ -19,8 +19,12 @@
             "Cards": ["Goblin Engineer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Broadside Bombardiers"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Broadside Bombardiers","Chaos Defiler"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
         }
     ]
 }

@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Grief", "Murktide Regent","Orcish Bowmasters","Troll of Khazad-dum"]
+            "Cards": ["Grief", "Murktide Regent","Orcish Bowmasters","Troll of Khazad-dûm"]
         },
         {
             "Type": "InMainboard",

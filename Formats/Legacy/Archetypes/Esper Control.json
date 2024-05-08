@@ -3,8 +3,12 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Teferi, Time Raveler"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Teferi, Time Raveler","Samwise the Stouthearted"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Sauron's Ransom", "Murktide Regent","Triumph of Saint Katherine"]
         },
         {
             "Type": "InMainboard",
@@ -25,10 +29,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Yorion, Sky Nomad"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Murktide Regent"]
         },
         {
             "Type": "DoesNotContain",

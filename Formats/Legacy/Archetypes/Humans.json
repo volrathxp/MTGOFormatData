@@ -1,6 +1,6 @@
 {
     "Name": "Humans",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "oneormoreInMainboard",
@@ -13,6 +13,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Cavern of Souls"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
         },        
         {
             "Type": "DoesNotContain",

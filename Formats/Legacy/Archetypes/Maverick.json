@@ -12,7 +12,11 @@
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Orcish Bowmasters"]
+            "Cards": ["Noble Hierarch"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Orcish Bowmasters", "Klothys, God of Destiny"]
         },
         {
             "Type": "InMainboard",

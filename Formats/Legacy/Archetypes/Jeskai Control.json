@@ -7,8 +7,8 @@
             "Cards": ["Teferi, Time Raveler"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Forth Eorlingas!"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Forth Eorlingas!", "Triumph of Saint Katherine"]
         },
         {
             "Type": "InMainboard",

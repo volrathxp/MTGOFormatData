@@ -9,10 +9,6 @@
         {
             "Type": "InMainboard",
             "Cards": ["Sythis, Harvest's Hand"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Enchantress's Presence"]
         }
     ]
 }

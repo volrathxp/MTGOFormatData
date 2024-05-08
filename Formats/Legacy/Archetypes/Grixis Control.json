@@ -23,7 +23,7 @@
             "Cards": ["Yorion, Sky Nomad"]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Murktide Regent"]
         },
         {

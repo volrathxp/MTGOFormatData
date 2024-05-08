@@ -25,6 +25,10 @@
           {
             "Type": "DoesNotContain",
             "Cards": ["Urza's Saga"]
+          },
+          {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Charbelcher"]
           }
     ]
 }

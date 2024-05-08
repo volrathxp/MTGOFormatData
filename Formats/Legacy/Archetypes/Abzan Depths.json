@@ -23,6 +23,10 @@
             "Cards": ["Swords to Plowshares"]
         },
         {
+            "Type": "InMainboard",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
             "Type": "DoesNotContain",
             "Cards": ["Vampire Hexmage"]
         },
@@ -49,10 +53,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Force of Will"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Life from the Loam"]
         }
     ]
 }
