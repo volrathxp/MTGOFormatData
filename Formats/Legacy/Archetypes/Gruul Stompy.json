@@ -16,7 +16,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Fable of the Mirror-Breaker", "Minsc & Boo, Timeless"]
+            "Cards": ["Fable of the Mirror-Breaker", "Minsc & Boo, Timeless Heroes"]
         },
         {
             "Type": "DoesNotContain",
