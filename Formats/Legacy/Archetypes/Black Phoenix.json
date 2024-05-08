@@ -12,7 +12,7 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Muktride Regent"]
+            "Cards": ["Murktide Regent"]
         },        
         {
             "Type": "DoesNotContain",

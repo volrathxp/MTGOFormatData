@@ -8,7 +8,7 @@
         },   
   	    {
             "Type": "twoormoreInMainboard",
-            "Cards": ["Grief", "Troll of Khazad-dum","Stitcher's Supplier"]
+            "Cards": ["Grief", "Troll of Khazad-dûm", "Stitcher's Supplier"]
         },
         {
             "Type": "DoesNotContain",

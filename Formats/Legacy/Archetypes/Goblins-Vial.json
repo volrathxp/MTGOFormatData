@@ -12,11 +12,11 @@
          },
          {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "goblin rabblemaster"]
+            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "Goblin Rabblemaster"]
          },        
          {
             "Type": "DoesNotContain",
-            "Cards": ["Name Sticker Goblin"]
+            "Cards": ["\"Name Sticker\" Goblin"]
         }
     ]
 }
