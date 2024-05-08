@@ -7,7 +7,7 @@
             "Cards": ["Hogaak, Arisen Necropolis"]
         },   
   	    {
-            "Type": "twoormoreInMainboard",
+            "Type": "TwoOrMoreInMainboard",
             "Cards": ["Grief", "Troll of Khazad-dûm","Stitcher's Supplier"]
         },
         {
