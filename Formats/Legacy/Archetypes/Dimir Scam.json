@@ -3,8 +3,16 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
+            "Type": "InMainboard",
+            "Cards": ["Grief"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Reanimate"]
+        },
+        {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Grief", "Murktide Regent","Orcish Bowmasters","Troll of Khazad-dûm"]
+            "Cards": ["Murktide Regent","Orcish Bowmasters","Troll of Khazad-dûm"]
         },
         {
             "Type": "InMainboard",
@@ -29,6 +37,14 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Atraxa, Grand Unifier"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Triumph of Saint Katherine"]
         },
         {
             "Type": "DoesNotContain",
