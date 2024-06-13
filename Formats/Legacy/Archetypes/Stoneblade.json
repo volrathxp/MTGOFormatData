@@ -29,10 +29,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Knight of the Reliquary"]
-        },
-        {
-            "Type": "DoesNotContainSideboard",
-            "Cards": ["Yorion, Sky Nomad"]
         }
     ]
 }
