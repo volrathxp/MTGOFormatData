@@ -1,0 +1,23 @@
+{
+    "Name": "Eldrazi",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Matter Reshaper"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thought-Knot Seer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eldrazi Temple"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        }
+
+    ]
+}
