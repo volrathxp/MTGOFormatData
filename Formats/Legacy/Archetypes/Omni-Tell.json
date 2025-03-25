@@ -1,0 +1,18 @@
+{
+    "Name": "Omni-Tell",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Show and Tell"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Omniscience"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sneak Attack"]
+        }
+          ]
+}

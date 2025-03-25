@@ -1,0 +1,58 @@
+{
+    "Name": "Naya Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Elvish Reclaimer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Swords to Plowshares"]
+        },
+        {
+            "Type": "OneOrMoreinSideboard",
+            "Cards": ["Mawloc", "Minsc & Boo, Timeless Heroes"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Orcish Bowmasters"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thoughtseize"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Exploration"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Karn, the Great Creator"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Boros Stompy",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Seasoned Dungeoneer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Caves of Chaos Adventurer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Solitude"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Fable of the Mirror-Breaker", "Touch the Spirit Realm"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kaldra Compleat"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Arena Rector"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Blood Moon"]
+        }
+    ]
+}

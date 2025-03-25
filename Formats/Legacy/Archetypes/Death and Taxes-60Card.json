@@ -1,0 +1,31 @@
+{
+    "Name": "Death and Taxes (60 Card)",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wasteland"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Thalia, Guardian of Thraben", "Mother of Runes","Recruiter of the Guard"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        }
+    ]
+      
+}

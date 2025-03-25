@@ -1,0 +1,42 @@
+{
+    "Name": "Jeskai Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Teferi, Time Raveler","Murktide Regent","Snapcaster Mage"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Forth Eorlingas!", "Triumph of Saint Katherine"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Swords to Plowshares"]
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tundra"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Volcanic Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        }    
+    ]
+}

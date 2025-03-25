@@ -1,0 +1,26 @@
+{
+    "Name": "Rakdos Stompy",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Fury", "Oliphaunt", "Broadside Bombardiers"]
+        },
+                {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Grief", "Troll of Khazad-dûm"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ancient Tomb"] 
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Badlands"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Lackey"]
+        }
+    ]
+}

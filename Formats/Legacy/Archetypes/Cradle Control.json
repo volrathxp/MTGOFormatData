@@ -1,0 +1,31 @@
+{
+    "Name": "Cradle Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gaea's Cradle"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Fiend Artisan","Wight of the Reliquary"]
+        },       
+         {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Natural Order"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Once Upon a Time"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Endurance", "Noble Hierarch","Allosaurus Shepherd","Springheart Nantuko"]
+        }
+        
+    ]
+}	

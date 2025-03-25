@@ -1,0 +1,27 @@
+{
+    "Name": "Eldrazi",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["It That Heralds the End","Glaring Fleshraker", "Reality Smasher","Sowing Mycospawn","Thought-Knot Seer","Matter Reshaper","Eldrazi Mimic","Eldrazi Linebreaker","Eldrazi Repurposer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eldrazi Temple"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eye of Ugin"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Planar Nexus"]
+        }
+
+    ]
+}

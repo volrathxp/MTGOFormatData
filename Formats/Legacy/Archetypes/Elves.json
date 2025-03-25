@@ -1,0 +1,27 @@
+{
+    "Name": "Elves",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gaea's Cradle"]
+        },   
+         {
+            "Type": "InMainboard",
+            "Cards": ["Allosaurus Shepherd"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Natural Order"]
+        },    
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Heritage Druid", "Elvish Visionary","Chord of Calling"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Nadu, Winged Wisdom"]
+        }
+        
+    ]
+}	

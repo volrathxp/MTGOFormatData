@@ -1,0 +1,37 @@
+{
+    "Name": "Grixis Tempo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Orcish Bowmasters","Murktide Regent"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Daze"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Volcanic Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Questing Druid"]
+        }             
+        
+    ]
+}
+
+

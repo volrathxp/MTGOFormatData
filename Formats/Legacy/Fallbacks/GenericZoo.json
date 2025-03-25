@@ -1,0 +1,12 @@
+{
+  "Name": "GenericZoo",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Akoum Hellhound",
+    "Brushfire Elemental",
+    "Steppe Lynx",
+    "Wild Nacatl",
+    "Berserk",
+    "Skyclave Pick-Axe"
+  ]
+}

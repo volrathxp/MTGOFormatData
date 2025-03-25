@@ -1,0 +1,54 @@
+{
+    "Name": "Rakdos Reanimator",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Entomb"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Reanimate"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Faithless Looting"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Children of Korlis"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Worldgorger Dragon"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Smallpox"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContainmainboard",
+            "Cards": ["Show and Tell"]
+        },
+        {
+            "Type": "DoesNotContainmainboard",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Currency Converter"]
+        }
+    ]
+}

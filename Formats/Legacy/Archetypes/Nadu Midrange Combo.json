@@ -1,0 +1,58 @@
+{
+    "Name": "Nadu Midrange Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Nadu, Winged Wisdom"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Nomads en-Kor"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Delighted Halfling"]
+        },    
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Teferi, Time Raveler","Sylvan Safekeeper","Keen-Eyed Curator"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tundra"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tropical Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Forth Eorlingas!"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Volcanic Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leyline Binding"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        }   
+    ]
+}

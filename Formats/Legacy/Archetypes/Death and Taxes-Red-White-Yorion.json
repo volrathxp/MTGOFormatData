@@ -1,0 +1,43 @@
+{
+    "Name": "Death and Taxes - RW (Yorion)",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Thalia, Guardian of Thraben", "Mother of Runes","Solitude"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wasteland"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Plateau"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Recruiter of the Guard"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Scrubland"]
+        }
+    ]
+      
+}

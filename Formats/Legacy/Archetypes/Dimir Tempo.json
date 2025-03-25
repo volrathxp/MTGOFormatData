@@ -1,0 +1,61 @@
+{
+    "Name": "Dimir Tempo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Psychic Frog", "Murktide Regent","Orcish Bowmasters","Troll of Khazad-dûm"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Daze"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Tamiyo, Inquisitive Student","Nethergoyf"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Volcanic Island"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tropical Island"]
+        },     
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Hogaak, Arisen Necropolis"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Atraxa, Grand Unifier"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Griselbrand"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Archon of Cruelty"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Delver of Secrets"]
+        }                          
+        
+    ]
+}
+
+

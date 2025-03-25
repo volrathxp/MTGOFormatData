@@ -1,0 +1,30 @@
+{
+    "Name": "Soul Cauldron Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Agatha's Soul Cauldron"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Goblin Welder"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Phyrexian Devourer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Goblin Engineer"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Broadside Bombardiers","Chaos Defiler"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        }
+    ]
+}

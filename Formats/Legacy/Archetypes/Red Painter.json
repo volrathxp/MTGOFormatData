@@ -1,0 +1,30 @@
+{
+    "Name": "Red Painter",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grindstone"]
+        },
+    	{
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Pyroblast","Red Elemental Blast","Fable of the Mirror-Breaker"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Seat of the Synod"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Emry, Lurker of the Loch"]
+        }
+    ]
+}

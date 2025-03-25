@@ -1,0 +1,35 @@
+{
+    "Name": "Jeskai Vial",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gilded Drake"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Recruiter of the Guard"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wasteland"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Broadside Bombardiers", "Ajani, Nacatl Pariah", "Magus of the Moon"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        }
+    ]
+      
+}

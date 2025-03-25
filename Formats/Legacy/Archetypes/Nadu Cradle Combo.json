@@ -1,0 +1,34 @@
+{
+    "Name": "Nadu Cradle Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Nadu, Winged Wisdom"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Nomads en-Kor"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Natural Order"]
+        },    
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Allosaurus Shepherd","Birds of Paradise","Chord of Calling"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Brainstorm"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        }
+    ]
+}

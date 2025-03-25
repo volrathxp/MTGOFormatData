@@ -1,0 +1,30 @@
+{
+    "Name": "Ruby Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Seething Song","Rite of Flame"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Ruby Medallion"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Birgi, God of Storytelling", "Jeska's Will"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ral, Monsoon Mage", "Elemental Eruption"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Galvanic Relay", "Burning Wish", "Wish"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Urza's Saga", "Simian Spirit Guide"]
+          }
+    ]
+}
