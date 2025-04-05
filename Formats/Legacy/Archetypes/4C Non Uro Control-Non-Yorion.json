@@ -11,11 +11,15 @@
             "Cards": ["Orcish Bowmasters"]
         },
         {   "Type" : "OneOrMoreInMainboard",
-            "Cards" : ["Narset, Parter of Veils","Forth Eorlingas!","Murktide Regent","Snapcaster Mage"]
+            "Cards" : ["Narset, Parter of Veils","Murktide Regent","Snapcaster Mage"]
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Lightning Bolt","Swords to Plowshares","Prismatic Ending"]
+            "Cards": ["Swords to Plowshares","Prismatic Ending"]
+        },       
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Lightning Bolt","Forth Eorlingas!","Swords to Plowshares","Prismatic Ending"]
         },
         {
             "Type": "DoesNotContain",

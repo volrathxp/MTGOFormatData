@@ -36,10 +36,6 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Questing Druid"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Grief"]
         }             
         

@@ -7,8 +7,8 @@
             "Cards": ["Phyrexian Dreadnought"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Dress Down"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Dress Down","Consign to Memory","Doorkeeper Thrull"]
         },
         {
             "Type": "InMainboard",

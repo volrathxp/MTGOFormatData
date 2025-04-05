@@ -11,6 +11,10 @@
             "Cards": ["Daze"]
         },
         {
+            "Type": "TwoOrInMainboard",
+            "Cards": ["Tropical Island"]
+        },       
+        {
             "Type": "DoesNotContain",
             "Cards": ["Up the Beanstalk"]
         },
