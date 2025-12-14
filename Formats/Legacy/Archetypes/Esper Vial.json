@@ -22,6 +22,10 @@
             "type": "DoesNotContain",
             "Cards": ["Seasoned Dungeoneer"]
         },
+                {
+            "type": "DoesNotContain",
+            "Cards": ["Overlord of the Balemurk"]
+        },
         {
             "type": "DoesNotContain",
             "Cards": ["Dark Depths"]

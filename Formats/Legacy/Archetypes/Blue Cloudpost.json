@@ -1,5 +1,5 @@
 {
-    "Name": "Mono Green Cloudpost",
+    "Name": "Blue Cloudpost",
     "IncludeColorInName": false,
     "Conditions": [
         {
@@ -9,10 +9,26 @@
         {
             "Type": "InMainboard",
             "Cards": ["Glimmerpost"]
-        },     
-        {
+        },   
+                  {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Green Sun's Zenith","Once Upon a Time", "Primeval Titan","Sowing Mycospawn","Crop Rotation"]
+            "Cards": ["Tishana's Tidebinder","Stock Up", "Kozilek's Command","Sink into Stupor","Thundertrap Trainer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Once Upon a Time"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Crop Rotation"]
         },
         {
             "Type": "DoesNotContain",
@@ -36,10 +52,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Vampire Hexmage"]
-        },
-                {
-            "Type": "DoesNotContain",
-            "Cards": ["Force of Will"]
         },
         {
             "Type": "DoesNotContain",

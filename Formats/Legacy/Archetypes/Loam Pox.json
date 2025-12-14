@@ -1,0 +1,50 @@
+{
+    "Name": "Loam Pox",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Smallpox"]
+        },
+                {
+            "Type": "InMainboard",
+            "Cards": ["Orcish Bowmasters"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eumidian Hatchery"]
+        },
+                {
+            "Type": "InMainboard",
+            "Cards": ["Bayou"]
+        },
+        {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Malevolent Rumble", "Witherbloom Command", "Life from the Loam","Once Upon a Time"]
+        },   
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Thespian's Stage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        }
+    ]
+}

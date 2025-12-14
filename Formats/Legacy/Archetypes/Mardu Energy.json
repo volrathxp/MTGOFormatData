@@ -1,0 +1,43 @@
+{
+    "Name": "Mardu Energy",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Guide of Souls"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ocelot Pride"]
+        },
+         {
+            "Type": "InMainboard",
+            "Cards": ["Orcish Bowmasters"]
+        },       
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Thoughtseize","Swords to Plowshares"]
+        },
+                {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Amped Raptor","SGoblin Bombardment"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        }
+    ]
+      
+}
