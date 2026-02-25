@@ -1,0 +1,18 @@
+{
+    "Name": "Mono Black Sacrifice",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Carrion Feeder","Mortician Beetle","Shambling Ghast"]
+        },
+        {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Village Rites","Fanatical Offering","Rite of Consumption"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basking Broodscale","Cleansing Wildfire"]
+        }
+    ]
+}

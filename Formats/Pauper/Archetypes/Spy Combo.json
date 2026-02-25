@@ -1,0 +1,11 @@
+{
+    "Name": "Spy Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Balustrade Spy","Dread Return","Lotleth Giant"]
+        }
+    ]
+            
+}

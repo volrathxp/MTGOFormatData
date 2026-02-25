@@ -1,0 +1,14 @@
+{
+    "Name": "Infect",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Glistener Elf","Ichorclaw Myr","Blight Mamba"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Embiggen","Mutagenic Growth","Might of Old Krosa","Snakeskin Veil"]
+        }
+    ]
+}

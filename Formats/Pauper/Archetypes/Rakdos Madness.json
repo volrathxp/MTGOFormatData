@@ -1,0 +1,19 @@
+{
+    "Name": "Rakdos Madness",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Sneaky Snacker","Kitchen Imp","Grab the Prize","Fiery Temper"]
+        },
+         {
+            "Type" : "InMainboard",
+            "Cards": ["Jagged Barrens"]
+        },       
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Guttersnipe","Kessig Flamebreather"]
+        }
+    ]
+            
+}

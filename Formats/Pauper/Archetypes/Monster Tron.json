@@ -1,0 +1,18 @@
+{
+    "Name": "Monster Tron",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Tower","Urza's Power Plant","Urza's Tower"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Wretched Gryff","Maelstrom Colossus","Bramble Wurm"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Pinnacle Kill-Ship","Candy Trail","Ancient Stirrings"]
+        }
+    ] 
+}

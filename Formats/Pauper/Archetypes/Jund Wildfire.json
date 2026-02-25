@@ -1,0 +1,22 @@
+{
+    "Name": "Jund Wildfire",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Writhing Chrysalis","Cleansing Wildfire","Ichor Wellspring"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basking Broodscale","Nadier's Nightblade","Sadistic Glee","Myr Enforcer"]
+        },
+        {
+            "Type": "OneOrMoreMainboard",
+            "Cards": ["Eviscerator's Insight","Fanatical Offering","Deadly Dispute"]
+        },
+        {
+            "Type": "OneOrMoreMainboard",
+            "Cards": ["Refurbished Familiar","Gixian Infiltrator","Krark-Clan Shaman"]
+        }     
+    ]
+}

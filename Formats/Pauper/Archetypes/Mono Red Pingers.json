@@ -1,0 +1,19 @@
+{
+    "Name": "Mono Red Pingers",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Lightning Bolt","Chain Lightning"]
+        },
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": ["Kessig Flamebreather","Thermo-Alchemist"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Plains","Swamp","Island","Ancient Den","Vault of Whispers","Rally at the Hornburg","Sneaky Snacker"]
+        }
+    ]
+            
+}

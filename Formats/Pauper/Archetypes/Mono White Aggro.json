@@ -1,0 +1,18 @@
+{
+    "Name": "Mono White Aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lunarch Veteran","Thraben Inspector"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Raffine's Informant","Kor Skyfisher","Summon: Choco/Mog","Squadron Hawk"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Battle Screech","Thraben Charm","Prismatic Strands"]
+        }
+    ]
+}

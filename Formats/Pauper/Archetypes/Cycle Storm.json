@@ -1,0 +1,18 @@
+{
+    "Name": "Cycle Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Songs of the Damned"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Drannith Stinger"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Balustrade Spy"]
+        }
+   ]   
+}

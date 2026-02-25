@@ -1,0 +1,18 @@
+{
+    "Name": "Mono White Heroic",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lagonna-Band Trailblazer"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ethereal Armor", "Hyena Umbra"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Akroan Skyguard"]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Goblins Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Skirk Prospector"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["First Day of Class"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Experimental Synthesizer"]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Izzet Terror",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Tolarian Terror","Murmuring Mystic"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Crimson Fleet Commodore", "Skred"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lórien Revealed"]
+        },
+        {
+            "Type":"DoesNotContain",
+            "Cards": ["Contaminated Aquifer"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ninja of the Deep Hours"]
+        },
+        {
+            "Type" : "DoesNotContainMainboard",
+            "Cards": ["Serpentine Curve"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ephemerate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Trailblazer's Torch"]
+        }
+    ]
+}

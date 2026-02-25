@@ -1,0 +1,26 @@
+{
+    "Name": "Dimir Faeries",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Faerie Seer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Thorn of the Black Rose", "Suffocating Fumes", "Snuff Out"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Moon-Circuit Hacker", "Ninja of the Deep Hours"]
+        }
+    ]
+}

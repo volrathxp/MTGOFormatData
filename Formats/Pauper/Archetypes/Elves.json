@@ -1,0 +1,18 @@
+{
+    "Name": "Elves",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type:": "InMainboard",
+            "Cards": ["Priest of Titania"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Quirion Ranger","Timberwatch Elf","Wellwisher"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Nyxborn Hydra","Avenging Hunter"]
+        }
+    ]
+}

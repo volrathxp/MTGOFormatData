@@ -1,0 +1,18 @@
+{
+    "Name": "Altar Tron",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Tower","Urza's Power Plant","Urza's Tower"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Myr Retriever","Prophetic Prism","Malevolent Rumble"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ashnod's Altar","Pactdoll Terror","Expedition Map","Candy Trail"]
+        }
+    ] 
+}

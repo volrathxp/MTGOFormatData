@@ -1,0 +1,11 @@
+{
+    "Name": "Inside Out Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Inside Out"]
+        }
+    ]
+            
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Mono Red Madness",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Sneaky Snacker","Guttersnipe","Grab the Prize","Fiery Temper"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Vampire's Kiss","Alms of the Vein","Kitchen Imp"]
+        }
+    ]
+            
+}

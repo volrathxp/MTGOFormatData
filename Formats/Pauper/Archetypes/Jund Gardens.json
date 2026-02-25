@@ -1,0 +1,26 @@
+{
+    "Name": "Jund Gardens",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Khalni Garden"]
+        },
+        {
+            "Type": "OneOrMoreInSideboard",
+            "Cards": ["Ancient Grudge","Breath Weapon","Gorilla Shaman"]
+        },
+        {
+            "Type": "OneOrMoreInSideboard",
+            "Cards": ["Troublemaker Oupe","Weather the Storm"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Avenging Hunter","Writhing Chrysalis","Oliphaunt","Breath Weapon"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Eviscerator's Insight","Fanatical Offering","Deadly Dispute"]
+        }     
+    ]
+}

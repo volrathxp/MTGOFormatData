@@ -1,0 +1,22 @@
+{
+    "Name": "Gruul Ponza",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Thermokarst","Mwonvuli Acid-Moss","Cleansing Wildfire"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Annoyed Altisaur"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Boarding Party"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Skred","Utopia Sprawl"]
+        }
+    ]
+}

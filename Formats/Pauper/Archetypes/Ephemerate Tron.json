@@ -1,0 +1,18 @@
+{
+    "Name": "Ephemerate Tron",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Tower","Urza's Power Plant","Urza's Tower"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Mulldrifter","Stonehorn Dignitary","Mysidian Elder"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ephemerate","Ghostly Flicker"]
+        }
+    ] 
+}

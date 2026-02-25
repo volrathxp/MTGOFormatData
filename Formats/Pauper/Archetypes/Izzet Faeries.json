@@ -1,0 +1,30 @@
+{
+    "Name": "Izzet Faeries",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Faerie Seer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Crimson Fleet Commodore"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Skred", "Lightning Bolt"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Moon-Circuit Hacker", "Ninja of the Deep Hours"]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Mono Red Rally",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": ["Rally at the Hornburg","Lightning Bolt"]
+        },
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": ["Clockwork Percussionist","Goblin Tomb Raider","Voldaren Epicure","Goblin Bushwhacker"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Plains","Swamp","Island","Ancient Den","Vault of Whispers","Kessig Flamebreather","Thermo-Alchemist","Sneaky Snacker"]
+        }
+    ]
+            
+}

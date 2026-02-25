@@ -1,0 +1,26 @@
+{
+    "Name": "Golgari Gardens",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Khalni Garden","Crypt Rats"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Writhing Chrysalis","Oliphaunt","Cauldron Familiar"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Ancient Grudge","Breath Weapon","Gorilla Shaman"]
+        },
+        {
+            "Type": "OneOrMoreMainboard",
+            "Cards": ["Defile","Cast Down"]
+        },
+        {
+            "Type": "OneOrMoreMainboard",
+            "Cards": ["Eviscerator's Insight","Fanatical Offering","Deadly Dispute"]
+        }     
+    ]
+}

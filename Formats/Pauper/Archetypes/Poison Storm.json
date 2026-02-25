@@ -1,0 +1,10 @@
+{
+    "Name": "Poison Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Infectious Inquiry"]
+        }
+    ]   
+}

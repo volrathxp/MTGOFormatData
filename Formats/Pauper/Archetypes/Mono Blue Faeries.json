@@ -1,0 +1,38 @@
+{
+    "Name": "Mono Blue Faeries",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Faerie Seer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Volatile Fjord"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Contaminated Aquifer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Skred"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Snuff Out"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Moon-Circuit Hacker", "Ninja of the Deep Hours"]
+        }
+    ]
+}

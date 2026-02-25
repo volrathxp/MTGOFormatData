@@ -1,0 +1,14 @@
+{
+    "Name": "Ruby Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Goblin Anarchomancer","Thornscape Familiar"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Big Score","Glimpse the Impossible","Rite of Flame"]
+        }
+   ]   
+}

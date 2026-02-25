@@ -1,0 +1,18 @@
+{
+    "Name": "Food Gardens",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Khalni Garden","Cauldron Familiar"]
+        },
+        {
+            "Type": "OneOrMoreMainboard",
+            "Cards": ["Lembas","Heaped Harvest","Nutrient Block"]
+        },
+        {
+            "Type": "OneOrMoreMainboard",
+            "Cards": ["Troll of Khazad-dum","Eviscerator's Insight","Fanatical Offering"]
+        }     
+    ]
+}

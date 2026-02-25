@@ -1,0 +1,15 @@
+{
+    "Name": "Dredge",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Dread Return","Stinkweed Imp","Lotleth Giant"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Scrapwork Mutt","Satyr Wayfinder","Circle of the Land Druid"]
+        }
+    ]
+            
+}

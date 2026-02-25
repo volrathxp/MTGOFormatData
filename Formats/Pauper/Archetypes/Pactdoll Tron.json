@@ -1,0 +1,18 @@
+{
+    "Name": "Pactdoll Tron",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Tower","Urza's Power Plant","Urza's Tower"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Pactdoll Terror","Black Mage's Rod"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Eviscerator's Insight","Fanatical Offering","Snuff Out"]
+        }
+    ] 
+}
