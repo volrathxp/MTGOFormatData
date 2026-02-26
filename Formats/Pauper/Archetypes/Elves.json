@@ -3,7 +3,7 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type:": "InMainboard",
+            "Type": "InMainboard",
             "Cards": ["Priest of Titania"]
         },
         {

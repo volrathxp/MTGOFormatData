@@ -11,11 +11,11 @@
             "Cards": ["Basking Broodscale","Nadier's Nightblade","Sadistic Glee","Myr Enforcer"]
         },
         {
-            "Type": "OneOrMoreMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Eviscerator's Insight","Fanatical Offering","Deadly Dispute"]
         },
         {
-            "Type": "OneOrMoreMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Refurbished Familiar","Gixian Infiltrator","Krark-Clan Shaman"]
         }     
     ]

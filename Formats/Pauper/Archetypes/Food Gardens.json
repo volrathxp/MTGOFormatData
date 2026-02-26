@@ -7,11 +7,11 @@
             "Cards": ["Khalni Garden","Cauldron Familiar"]
         },
         {
-            "Type": "OneOrMoreMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Lembas","Heaped Harvest","Nutrient Block"]
         },
         {
-            "Type": "OneOrMoreMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Troll of Khazad-dum","Eviscerator's Insight","Fanatical Offering"]
         }     
     ]

@@ -15,11 +15,11 @@
             "Cards": ["Ancient Grudge","Breath Weapon","Gorilla Shaman"]
         },
         {
-            "Type": "OneOrMoreMainboard",
+            "Type": "OneOrMorInMainboard",
             "Cards": ["Defile","Cast Down"]
         },
         {
-            "Type": "OneOrMoreMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Eviscerator's Insight","Fanatical Offering","Deadly Dispute"]
         }     
     ]
