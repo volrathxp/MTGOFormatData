@@ -15,7 +15,7 @@
             "Cards": ["Ancient Grudge","Breath Weapon","Gorilla Shaman"]
         },
         {
-            "Type": "OneOrMorInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Defile","Cast Down"]
         },
         {
