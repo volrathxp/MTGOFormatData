@@ -13,6 +13,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Eviscerator's Insight","Fanatical Offering","Snuff Out"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Bramble Wurm","Maelstrom Colossus","Wretched Gryff","Pinnacle Kill-Ship","Ephemerate","Ghostly Flicker"]
         }
     ] 
 }

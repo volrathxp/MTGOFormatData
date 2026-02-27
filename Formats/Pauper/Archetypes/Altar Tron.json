@@ -13,6 +13,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Ashnod's Altar","Pactdoll Terror","Expedition Map","Candy Trail"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Bramble Wurm","Maelstrom Colossus","Wretched Gryff","Pinnacle Kill-Ship","Ephemerate","Ghostly Flicker"]
         }
     ] 
 }

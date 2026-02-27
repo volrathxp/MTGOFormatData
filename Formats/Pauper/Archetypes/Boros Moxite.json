@@ -1,0 +1,22 @@
+{
+    "Name": "Boros Moxite",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Melded Moxite","Sneaky Snacker"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Glint Hawk","Kor Skyfisher"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ancient Den","Boros Garrison"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Galvanic Blast","Lembas","Relic of Progenitus"]
+        }
+    ]
+}
