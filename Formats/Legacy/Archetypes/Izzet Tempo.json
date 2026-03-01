@@ -12,36 +12,8 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Up the Beanstalk"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Death's Shadow"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Animate Dead"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Orcish Bowmasters"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Psychic Frog"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Nethergoyf"]
-        },
-                {
-            "Type": "DoesNotContain",
-            "Cards": ["Underground Sea"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Grief"]
-        }             
+            "Cards": ["Up the Beanstalk","Death's Shadow","Animate Dead","Orcish Bowmasters","Psychic Frog","Nethergoyf","Underground Sea","Grief"]
+        }          
         
     ]
 }

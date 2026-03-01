@@ -1,0 +1,18 @@
+{
+    "Name": "Affinity Stompy",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Kappa Cannoneer", "Emry, Lurker of the Loch", "Patchwork Automaton"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lotus Petal","Pinnacle Emissary"]
+        },        
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Arcbound Ravager","Painter's Servant","Grindstone","Auriok Salvagers","Riddlesmith","Paradoxical Outcome","Thoughtcast","Thought Monitor"]
+        }
+    ]
+}

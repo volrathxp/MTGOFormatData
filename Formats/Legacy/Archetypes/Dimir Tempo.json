@@ -16,45 +16,8 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Volcanic Island"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Tropical Island"]
-        },     
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Up the Beanstalk"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Death's Shadow"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Animate Dead"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Hogaak, Arisen Necropolis"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Atraxa, Grand Unifier"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Griselbrand"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Archon of Cruelty"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Delver of Secrets"]
-        }                          
-        
+            "Cards": ["Volcanic Island","Tropical Island","Up the Beanstalk","Death's Shadow","Animate Dead","Hogaak, Arisen Necropolis","Atraxa, Grand Unifier","Griselbrand","Archon of Cruelty","Delver of Secrets"]
+        }                               
     ]
 }
 

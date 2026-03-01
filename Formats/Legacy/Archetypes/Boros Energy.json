@@ -1,18 +1,14 @@
 {
-    "Name": "Mardu Energy",
+    "Name": "Boros Energy",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": ["Guide of Souls","Ocelot Pride"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Orcish Bowmasters"]
-        },       
+        },  
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Thoughtseize","Swords to Plowshares"]
+            "Cards": ["Voice of Victory","Swords to Plowshares"]
         },
                 {
             "Type": "OneOrMoreInMainboard",
@@ -20,7 +16,7 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Force of Will","Aether Vial","Green Sun's Zenith"]
+            "Cards": ["Force of Will","Aether Vial","Green Sun's Zenith","Orcish Bowmasters","Cabal Therapy"]
         },
         {
             "Type": "DoesNotContainSideboard",

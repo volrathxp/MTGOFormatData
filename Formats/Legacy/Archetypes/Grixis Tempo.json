@@ -12,25 +12,12 @@
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Volcanic Island"]
+            "Cards": ["Volcanic Island","Underground Sea"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Up the Beanstalk"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Death's Shadow"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Animate Dead"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Questing Druid"]
-        }             
-        
+            "Cards": ["Up the Beanstalk","Death's Shadow","Animate Dead","Questing Druid"]
+        }           
     ]
 }
 
