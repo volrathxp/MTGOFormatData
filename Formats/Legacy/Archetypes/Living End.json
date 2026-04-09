@@ -1,0 +1,10 @@
+{
+    "Name": "Living End",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Living End"]
+        }
+    ]
+}

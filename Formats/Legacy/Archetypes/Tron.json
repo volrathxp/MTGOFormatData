@@ -1,0 +1,19 @@
+{
+    "Name": "Tron",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Karn, the Great Creator","Grim Monolith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Mine","Urza's Power Plant","Urza's Tower","Planar Nexus"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Esper Sentinel","Thoughtcast","Auriok Salvagers","Cloudpost","Blood Moon"]
+        }
+    ]
+}
+
