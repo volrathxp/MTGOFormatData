@@ -4,51 +4,15 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Entomb"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Reanimate"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Animate Dead"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Faithless Looting"]
+            "Cards": ["Reanimate", "Faithless Looting","Animate Dead"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Children of Korlis"]
+            "Cards": ["Children of Korlis", "Force of Will", "Worldgorger Dragon", "Smallpox", "Dark Depths", "Death's Shadow", "Currency Converter"]
         },
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Force of Will"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Worldgorger Dragon"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Smallpox"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Dark Depths"]
-        },
-        {
-            "Type": "DoesNotContainmainboard",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Show and Tell"]
-        },
-        {
-            "Type": "DoesNotContainmainboard",
-            "Cards": ["Death's Shadow"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Currency Converter"]
         }
     ]
 }

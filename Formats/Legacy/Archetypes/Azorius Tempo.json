@@ -1,0 +1,20 @@
+{
+    "Name": "Azorius Tempo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Phelia, Exuberant Shepherd", "Quantum Riddler", "Tamiyo, Inquisitive Student"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Daze", "Swords to Plowshares"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underground Sea", "Volcanic Island","Tropical Island","Up the Beanstalk","Death's Shadow","Animate Dead","Hogaak, Arisen Necropolis","Atraxa, Grand Unifier","Griselbrand","Archon of Cruelty","Delver of Secrets"]
+        }                               
+    ]
+}
+
+

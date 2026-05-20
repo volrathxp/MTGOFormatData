@@ -12,7 +12,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Tamiyo, Inquisitive Student","Nethergoyf"]
+            "Cards": ["Tamiyo, Inquisitive Student","Nethergoyf","Moonshadow"]
         },
         {
             "Type": "DoesNotContain",
