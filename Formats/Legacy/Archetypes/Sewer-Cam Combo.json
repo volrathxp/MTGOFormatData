@@ -1,0 +1,14 @@
+{
+    "Name": "Sewer-Cam Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sewer-veillance Cam","Goblin Welder","Emry, Lurker of the Loch"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        }
+    ]
+}

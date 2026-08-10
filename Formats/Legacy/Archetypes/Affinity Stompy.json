@@ -12,7 +12,7 @@
         },        
                 {
             "Type": "DoesNotContain",
-            "Cards": ["Arcbound Ravager","Painter's Servant","Grindstone","Auriok Salvagers","Riddlesmith","Paradoxical Outcome","Thoughtcast","Thought Monitor"]
+            "Cards": ["Arcbound Ravager","Painter's Servant","Grindstone","Auriok Salvagers","Riddlesmith","Paradoxical Outcome","Thoughtcast","Thought Monitor","Sewer-veillance Cam"]
         }
     ]
 }

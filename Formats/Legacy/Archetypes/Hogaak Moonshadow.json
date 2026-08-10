@@ -1,0 +1,15 @@
+{
+    "Name": "Hogaak Moonshadow",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Hogaak, Arisen Necropolis","Moonshadow","Wight of the Reliquary"]
+        },   
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Golgari Grave-Troll","Altar of Dementia","Hedron Crab"]
+        }
+        
+    ]
+}
