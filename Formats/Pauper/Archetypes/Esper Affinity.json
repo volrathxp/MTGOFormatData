@@ -1,0 +1,23 @@
+{
+    "Name": "Esper Affinity",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Myr Enforcer","Frogmite","Refurbished Familiar","Glint Hawk","Kor Skyfisher"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ancient Den","Goldmire Bridge","Razortide Bridge"]
+        },     
+                {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Reckoner's Bargain", "Blood Fountain","Cryogen Relic"]
+        },         
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Galvanic Blast","Slippery Bogle","Great Furnace","Vault of Whispers","Drossforge Bridge"]
+        }
+       ]
+}
+    

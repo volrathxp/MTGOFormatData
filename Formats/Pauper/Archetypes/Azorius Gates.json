@@ -28,6 +28,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Pestilence"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sneaky Snacker"]
         }
     ]
 }

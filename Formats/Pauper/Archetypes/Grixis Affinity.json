@@ -9,18 +9,14 @@
         {
             "Type": "InMainboard",
             "Cards": ["Drossforge Bridge","Mistvault Bridge","Silverbluff Bridge"]
-        },              
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["All That Glitters"]
-        },
-        {
+        },     
+                {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Reckoner's Bargain", "Blood Fountain"]
-        },
+        },         
         {
             "Type": "DoesNotContain",
-            "Cards": ["Slippery Bogle"]
+            "Cards": ["Slippery Bogle","Ancient Den","Goldmire Bridge","Razortide Bridge"]
         }
        ]
 }

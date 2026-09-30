@@ -1,0 +1,22 @@
+{
+    "Name": "Metalcraft Aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ornithopter","Phyrexian Walker"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Thraben Inspector","Halo Hopper","Leonardo, Big Brother","Search Party Captain"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Battle Screech","Thraben Charm","Prismatic Strands","Winding Way"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tithing Blade"]
+        }
+    ]
+}

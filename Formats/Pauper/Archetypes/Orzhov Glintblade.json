@@ -1,0 +1,14 @@
+{
+    "Name": "Orzhov Glintblade",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Glint Hawk","Kor Skyfisher","Tithing Blade"]
+        },
+                {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Refurbished Familiar","Reckoner's Bargain","Eviscerator's Insight","Dispatch"]
+        }
+    ]
+}

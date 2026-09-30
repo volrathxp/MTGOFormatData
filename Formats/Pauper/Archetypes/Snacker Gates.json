@@ -1,0 +1,10 @@
+{
+    "Name": "Snacker Gates",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Basilisk Gate","Sneaky Snacker"]
+        }
+    ]
+}

@@ -13,6 +13,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Battle Screech","Thraben Charm","Prismatic Strands"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Phyrexian Walker","Ornithopter","Tithing Blade"]
         }
     ]
 }
