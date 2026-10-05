@@ -9,6 +9,10 @@
                 {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Refurbished Familiar","Reckoner's Bargain","Eviscerator's Insight","Dispatch"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Utrom Monitor","Myr Enforcer"]
         }
     ]
 }
